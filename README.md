@@ -15,7 +15,12 @@
 </p>
 
 <h3 align="left">My Projects</h3>
-•	Museum Candy Website
+<p><bold>Museum Candy Website: <bold>https://musuemofcandy.netlify.app</p>
+<p><bold>Ping Pong Scorer: <bold>https://pingpongscorer.netlify.app</p>
+<p><bold>Pricing Panel: <bold>https://simplepricingpanel.netlify.app</p>
+p><bold>QR Code Scanner: <bold>https://cloying-attesting.000webhostapp.com/MyPortfolio/AttedanceMonitoring/index.php</bold></p>
+
+  
   o	https://musuemofcandy.netlify.app
 •	Ping Pong Scorer
   o	https://pingpongscorer.netlify.app
